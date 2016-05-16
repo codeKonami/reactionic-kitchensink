@@ -4,5 +4,6 @@
 *.pem
 .emacs.desktop*
 node_modules
+!app/node_modules
 /build/index.js
 
